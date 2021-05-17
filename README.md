@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tourist-Assistance-App-Flutter-
+Project Info : This project is based on solving the language problems of tourist such as, translating the text/speech from one language to another language. Labeling image or recognizing image text and translating into another language. Apart form this there is feature to change currency and explore Indian tourism places.
 
-A few resources to get you started if this is your first Flutter project:
+Changes in project: I have commented all the part in code where you have to make changes.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For the last feature which includes firebase realtime database it is recommanded to use your own database. Here is link how to to add fireabase databse into your flutter application
