@@ -11,4 +11,4 @@ Changes in project: I have commented all the part in code where you have to make
 
 For the last feature which includes firebase realtime database it is recommanded to use your own database. Here is link how to to add fireabase databse into your flutter application
 
-![Alt text](/../master/assets/images/Flutter App.jpeg?raw=true "Optional Title")
+https://raw.github.com/pushkarpawar/Tourist-Assistance-App-Flutter-/master/assets/images/Flutter App.jepg
